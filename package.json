@@ -1,0 +1,21 @@
+{
+  "name": "simple-dark-notepad",
+  "displayName": "simple-dark-notepad",
+  "description": "A theme for those who love to code on Notepads and Terminals",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Simple Dark Notepad",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Simple Dark Notepad-color-theme.json"
+      }
+    ]
+  }
+}
