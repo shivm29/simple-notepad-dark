@@ -6,6 +6,16 @@
   "engines": {
     "vscode": "^1.85.0"
   },
+  "icon": "icons/simple-notepad-icon.png",
+  "author": {
+    "name" : "shivam puri goswami",
+    "email" : "shivm.onweb@gmail.com",
+    "url": "https://www.linkedin.com/in/shivam-puri-goswami-041081200/"
+  },
+  "repository": {
+    "url": "https://github.com/shivm29/simple-notepad-dark",
+    "type": "github"
+  },
   "categories": [
     "Themes"
   ],
